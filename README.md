@@ -12,6 +12,7 @@ Python Newsfeed is created by following a coding bootcamp continuation course. T
 
 - Python
 - Flask
+- MySQL (SQLAlchemy) Database
 - VS Code
 
 ## :star2: Features
