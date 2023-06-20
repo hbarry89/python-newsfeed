@@ -1,5 +1,4 @@
 # :newspaper: Python Newsfeed
-Bootcamp continuation course for Python
 
 ## :pencil: Description
 
