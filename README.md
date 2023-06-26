@@ -6,14 +6,31 @@ Python Newsfeed is created by following a coding bootcamp continuation course. T
 
 ## :computer: Usage
 
-- [Click here](https://just-tech-news1-8005399aa9b7.herokuapp.com/) for the live link.
+[Click here](https://just-tech-news1-8005399aa9b7.herokuapp.com/) for the live link.
+
+Due to Heroku fees, the live link might not be operable. However, you can clone this repo and test the application locally by running this command:
+```python3 -m flask run```
 
 ## :wrench: Technologies Used
 
-- Python
-- Flask
-- MySQL (SQLAlchemy) Database
-- VS Code
+- Frontend:
+    - HTML
+    - CSS
+    - JavaScript
+
+- Databse:
+    - MySQL (SQLAlchemy) Database
+
+- Backend:
+    - Python
+    - Flask (Development Server)
+    - Gunicorn (Deployment Derver)
+
+- Deployment:
+    - Heroku
+
+- IDE:
+    - VS Code
 
 ## :star2: Features
 
