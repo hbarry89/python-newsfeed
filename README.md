@@ -14,7 +14,13 @@ Due to Heroku fees, the live link might not be operable. However, you can clone 
 ### Preview
 
 <img width="600" alt="Screenshot 2023-06-26 at 12 29 12 PM" src="https://github.com/hbarry89/python-newsfeed/assets/106551259/f912136c-cab6-4823-8028-ac559c32cd64">
+
+---
+
 <img width="600" alt="Screenshot 2023-06-26 at 12 29 25 PM" src="https://github.com/hbarry89/python-newsfeed/assets/106551259/252a7381-bde2-48ca-b441-f6058adbf917">
+
+---
+
 <img width="600" alt="Screenshot 2023-06-26 at 12 29 42 PM" src="https://github.com/hbarry89/python-newsfeed/assets/106551259/ab6fc526-266a-46a1-b930-c69af82757e0">
 
 
